@@ -1,32 +1,25 @@
-# 👨‍💻 Captain-Fellow
-
-### *Sailing the rough seas of technology with curiosity as my compass ⚓*
-
-Hi! I’m **Tharindu Induwara**, a passionate final-year **BSc (Hons) Data Science** undergraduate who loves turning data into decisions and ideas into impactful solutions.  
-I believe technology should **simplify life, inspire creativity, and empower people**—and that’s what I aim to build with every project.
+<!-- Profile Header -->
+<h1 align="center">⛵ Captain-Fellow</h1>
+<h3 align="center">Sailing the seas of technology with curiosity as my compass</h3>
 
 ---
 
-## 🚀 What I Do
-- **Data Science & Machine Learning** – Predicting, analyzing, and making sense of complex patterns.
-- **Full-Stack Development** – Crafting user-focused applications from front-end to back-end.
-- **Business Intelligence** – Transforming raw data into clear, actionable insights.
-- **AI Solutions** – From smart dashboards to automated workflows.
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:tharinduinduwarakk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/tharindu-induwara"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Captain-Fellow"><img src="https://img.shields.io/github/followers/Captain-Fellow?label=Follow&style=for-the-badge" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=Captain-Fellow&color=brightgreen&style=for-the-badge" alt="Profile Views">
+</p>
 
 ---
 
-## 🌟 My Philosophy
-> "Code is not just instructions to a machine—it’s a bridge between human imagination and reality."
+## 🚀 About Me
+Final-year **BSc (Hons) Data Science** undergraduate passionate about **AI, data analytics, and full-stack development**.  
+I build solutions that turn complex data into simple, impactful decisions.  
 
-I approach every challenge like a new voyage—prepared, adaptive, and ready to navigate uncertainty until we reach the destination.
-
----
-
-## 📌 Featured Work
-- 🏥 **AI-Enabled Pharmacy System** – Automated prescription and invoice reading with stock prediction.
-- 📊 **Microsoft Fabric & Power BI Dashboards** – Interactive analytics for better decision-making.
-- 🤖 **Gym Membership Management System** – Web-based, AR-enabled business solution.
-- 🌐 **Revolutionizing Online Gaming** – Real-time competitive games using advanced data handling.
+💡 I believe:  
+> *"Code is not just instructions to a machine — it’s a bridge between human imagination and reality."*
 
 ---
 
@@ -34,17 +27,33 @@ I approach every challenge like a new voyage—prepared, adaptive, and ready to 
 **Languages:** Python, Java, JavaScript, SQL  
 **Tools & Platforms:** Power BI, Microsoft Fabric, Git, Docker  
 **Frameworks:** React, Node.js, Flask, TensorFlow, Scikit-learn  
-**Databases:** MySQL, PostgreSQL, MongoDB
+**Databases:** MySQL, PostgreSQL, MongoDB  
+
+---
+
+## 📌 Featured Projects
+- 🏥 **AI-Enabled Pharmacy System** – Automated prescription & invoice reading with stock prediction.  
+- 📊 **Power BI Dashboards** – Data visualization for smart decision-making.  
+- 🤖 **Gym Membership Management** – Web-based, AR-enabled business tool.  
+- 🎮 **Online Gaming Platform** – Real-time competitive gameplay with advanced data handling.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Fellow&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Fellow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
 
 ---
 
 ## 🌊 Let’s Connect
-- 📧 Email: [tharinduinduwarakk@gmail.com](mailto:tharinduinduwarakk@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/tharindu-induwara](https://www.linkedin.com/in/tharindu-induwara)  
-- 🌍 Portfolio: [Captain-Fellow on GitHub](https://github.com/Captain-Fellow)
+- 📧 **Email:** [tharinduinduwarakk@gmail.com](mailto:tharinduinduwarakk@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/tharindu-induwara](https://www.linkedin.com/in/tharindu-induwara)  
+- 🌍 **GitHub:** [Captain-Fellow](https://github.com/Captain-Fellow)  
 
 ---
 
-### ⚡ Fun Fact
-I treat every project like a voyage—sometimes the seas are calm, sometimes there’s a storm,  
-but with the right crew (team) and navigation (data), we’ll always find the treasure (solution).
+<p align="center">
+  <em>Sometimes the seas are calm, sometimes there’s a storm — but with the right crew (team) and navigation (data), we’ll always find the treasure (solution).</em> ⚓
+</p>
