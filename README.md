@@ -7,7 +7,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="mailto:tharinduinduwarakk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/tharindu-induwara](https://www.linkedin.com/in/tharindu-induwara-225532252/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="[[https://www.linkedin.com/in/tharindu-induwara](https://www.linkedin.com/in/tharindu-induwara-225532252/)](https://www.linkedin.com/in/tharindu-induwara-225532252/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/Captain-Fellow"><img src="https://img.shields.io/github/followers/Captain-Fellow?label=Follow&style=for-the-badge" alt="GitHub Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=Captain-Fellow&color=brightgreen&style=for-the-badge" alt="Profile Views">
 </p>
